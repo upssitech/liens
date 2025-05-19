@@ -1,29 +1,29 @@
-#Guide du Vacataire UPSSITECH
+# Guide du Vacataire UPSSITECH
 
-##Gestion de votre dossier / Ressources humaines
-###Vos interlocuteurs
+## Gestion de votre dossier / Ressources humaines
+### Vos interlocuteurs
 
-###Conditions de recrutement
+### Conditions de recrutement
 
-###Les missions et engagements
+### Les missions et engagements
 
-###Le dossier de recrutement
+### Le dossier de recrutement
 
-###Le contrat de vacation
+### Le contrat de vacation
 
-###Les modalités de rémunération
+### Les modalités de rémunération
 
-##Organisation de vos interventions
-###Vos interlocuteurs
+## Organisation de vos interventions
+### Vos interlocuteurs
 
-###Emploi du temps
+### Emploi du temps
 
-###Listes de présence
+### Listes de présence
 
-###Accès aux salles/Reprographie
+### Accès aux salles/Reprographie
 
-###Examens
+### Examens
 
-###Informatique et ressources numériques
+### Informatique et ressources numériques
 
 ##Plan des sites et bâtiments
