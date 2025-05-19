@@ -26,4 +26,4 @@
 
 ### Informatique et ressources numériques
 
-##Plan des sites et bâtiments
+## Plan des sites et bâtiments
